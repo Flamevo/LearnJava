@@ -13,9 +13,7 @@ public class test {
 //        Status arr[] = Status.values();
 //        for (int i = 0; i < arr.length; i++) {
 //            System.out.println(arr[i].getName());
-//        }
-
-
+//
 
         switch(s1){
             case PAYMENT_PENDING -> System.out.println("待支付状态");
