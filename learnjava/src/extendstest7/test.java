@@ -1,4 +1,4 @@
-package extentstest7;
+package extendstest7;
 
 public class test {
     public static void main(String[] args) {
